@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "AkzSXUBATH0FhGnv/6teQiKoenG7+djyIMqY4wGryBWgG06lp+7DiTjv00j9CuOgnOYYnaWGwxlOtIvIMf48Wg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Maciek\\source\\repos\\BMI Calculator\\BMI Calculator\\BMI Calculator.iOS\\BMI Calculator.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Maciek\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.6.1\\xamarin.essentials.1.6.1.nupkg.sha512",
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\5.0.0.2012\\xamarin.forms.5.0.0.2012.nupkg.sha512"
+  ],
+  "logs": []
+}
